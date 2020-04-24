@@ -1,0 +1,4 @@
+CPU: Intel Pentium G4600 3.6GHz
+RAM: 8GB DDR4
+Video: nVidia GeForce GTX 1050
+Storage: 500GB Samsung 860 EVO, 250GB WD Blue SATA M.2, 1TB WD Blue 7200RPM

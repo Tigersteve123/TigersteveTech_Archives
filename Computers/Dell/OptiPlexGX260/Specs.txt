@@ -1,0 +1,4 @@
+CPU: Intel Pentium 4 2.4GHz
+RAM: 1GB DDR-400
+Video: Intel GMA
+Storage: None
