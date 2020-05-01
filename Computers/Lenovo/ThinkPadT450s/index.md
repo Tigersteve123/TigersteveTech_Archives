@@ -22,6 +22,7 @@
   </tr>
   <tr>
     <td><img src='IMG_5317.JPG' width='400' height='300'/></td>
+	<td><img src='IMG_5840.JPG' width='400' height='300'/></td>
   </tr>
 </table>
 
