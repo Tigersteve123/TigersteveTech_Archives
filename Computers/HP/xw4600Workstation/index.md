@@ -3,32 +3,32 @@
 
 <table>
   <tr>
-    <td><img src='xw4600_1.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_2.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_3.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_4.JPG' width='400' height='300'/></td>
+    <td><img src='xw4600_1.JPG'/></td>
+    <td><img src='xw4600_2.JPG'/></td>
+    <td><img src='xw4600_3.JPG'/></td>
+    <td><img src='xw4600_4.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='xw4600_5.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_6.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_7.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_8.JPG' width='400' height='300'/></td>
+    <td><img src='xw4600_5.JPG'/></td>
+    <td><img src='xw4600_6.JPG'/></td>
+    <td><img src='xw4600_7.JPG'/></td>
+    <td><img src='xw4600_8.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='xw4600_9.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_10.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_11.jpg' width='400' height='300'/></td>
-    <td><img src='xw4600_12.JPG' width='400' height='300'/></td>
+    <td><img src='xw4600_9.JPG'/></td>
+    <td><img src='xw4600_10.JPG'/></td>
+    <td><img src='xw4600_11.jpg'/></td>
+    <td><img src='xw4600_12.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='xw4600_13.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_14.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_15.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_16.JPG' width='400' height='300'/></td>
+    <td><img src='xw4600_13.JPG'/></td>
+    <td><img src='xw4600_14.JPG'/></td>
+    <td><img src='xw4600_15.JPG'/></td>
+    <td><img src='xw4600_16.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='xw4600_17.JPG' width='400' height='300'/></td>
-    <td><img src='xw4600_18.JPG' width='400' height='300'/></td>
+    <td><img src='xw4600_17.JPG'/></td>
+    <td><img src='xw4600_18.JPG'/></td>
   </tr>
 </table>
 
