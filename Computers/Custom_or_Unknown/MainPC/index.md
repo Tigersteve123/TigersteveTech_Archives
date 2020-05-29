@@ -6,16 +6,18 @@
     <td><img src='IMG_5692.JPG'/></td>
     <td><img src='IMG_5694.JPG'/></td>
     <td><img src='IMG_5695.JPG'/></td>
-    <td><img src='IMG_5696.JPG'/></td>
   </tr>
   <tr>
+    <td><img src='IMG_5696.JPG'/></td>
     <td><img src='IMG_5697.JPG'/></td>
     <td><img src='IMG_5702.JPG'/></td>
+  </tr>
+  <tr>
+    <td><img src='IMG_5702.JPG'/></td>
     <td><img src='IMG_5702.JPG'/></td>
     <td><img src='IMG_5702.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_5702.JPG'/></td>
     <td><img src='IMG_5711.JPG'/></td>
     <td><img src='IMG_5713.JPG'/></td>
     <td><img src='IMG_5714.JPG'/></td>
