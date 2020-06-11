@@ -8,7 +8,7 @@
     <td><img src='IMG_5997.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_5998.JPG'/></td>
+    <td><img src='IMG_5999.JPG'/></td>
     <td><img src='IMG_6000.JPG'/></td>
     <td><img src='IMG_6001.JPG'/></td>
   </tr>
