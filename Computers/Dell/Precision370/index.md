@@ -37,6 +37,9 @@
     <td><img src='IMG_6081.JPG'/></td>
     <td><img src='IMG_6082.JPG'/></td>
   </tr>
+  <tr>
+    <td><img src='IMG_6087.JPG'/></td>
+  </tr>
 </table>
 
 ### [Specs](Specs.txt)
