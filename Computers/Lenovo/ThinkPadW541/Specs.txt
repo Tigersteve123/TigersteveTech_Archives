@@ -2,4 +2,4 @@ CPU: Intel Core i7 4710MQ 2.5 GHz
 RAM: 32GB DDR3-1600 (4x8GB)
 Video: Intel HD Graphics 4600, Nvidia Quadro K1100M
 Storage: 2x500GB Seagate 7200RPM, RAID 0
-Screen: 1920x1080 TN or 2880x1620 IPS 15" (Broken)
+Screen: 2880x1620 15" IPS (Broken)
