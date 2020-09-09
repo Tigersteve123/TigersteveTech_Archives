@@ -1,4 +1,4 @@
-# Lenovo 500e Chromebook 2ND Gen
+# Lenovo 500e Chromebook 2nd Gen
 [Parent directory](../index.md)
 
 <table>
