@@ -1,5 +1,4 @@
 # Computers
-
 [Home](../README.md)
 
 * [Acer](./Acer/index.md)
