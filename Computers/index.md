@@ -1,6 +1,6 @@
-[Home](../README.md)
-
 # Computers
+
+[Home](../README.md)
 
 * [Acer](./Acer/index.md)
 * [Custom or Unknown Brands](./Custom_or_Unknown/index.md)
