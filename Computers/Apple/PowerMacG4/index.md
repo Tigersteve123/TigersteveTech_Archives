@@ -1,4 +1,4 @@
-# Acer Aspire 4530
+# Apple Power Mac G4
 [Parent directory](../index.md)
 
 <table>
