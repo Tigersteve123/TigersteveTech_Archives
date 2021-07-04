@@ -32,3 +32,6 @@
 ### [Specs](Specs.txt)
 
 <embed src='Specs.txt'>
+
+### Notes
+I got this machine with a broken screen in the summer of 2018. At first, I tried to troubleshoot and repair it myself, but I think I might have ripped the ribbon cable holding the trackpad in and caused the connector on the board to short. After my first attempt, the machine started doing the 3-3-1 beep code. I took it to the repair shop of a friend and we tried to fix it together to no avail until I eventually unplugged the trackpad. Quite unfortunate and I hope to fix the problem eventually someday.
