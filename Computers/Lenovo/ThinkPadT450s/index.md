@@ -31,3 +31,6 @@
 ### [Specs](Specs.txt)
 
 <embed src='Specs.txt'>
+
+### Notes
+The cracks in the bottom cover of this laptop are from when I tried to open it without reading the Hardware Maintenance Manual. I ended up unclipping the clips holding it in place in the wrong order and using too much force, eventually breaking it.
