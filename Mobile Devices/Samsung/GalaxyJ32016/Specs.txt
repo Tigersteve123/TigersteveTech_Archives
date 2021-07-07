@@ -1,0 +1,4 @@
+SoC: Samsung Exynos 3475
+RAM: 1.5GB LPDDR3
+Storage: 16GB eMMC
+Display: 720x1280 4.8" IPS
