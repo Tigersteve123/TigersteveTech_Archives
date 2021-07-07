@@ -20,3 +20,6 @@
 ### [Specs](Specs.txt)
 
 <embed src='Specs.txt'>
+
+### Notes
+I won this tablet from an app development competition that Lenovo sponsored. It's probably the best prize that I have ever won (the best thing I ever got for free was the ThinkPad W541.)
