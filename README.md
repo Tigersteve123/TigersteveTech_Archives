@@ -13,6 +13,7 @@
 
 ### Main Menu
 * [Computers](/Computers/index.md)
+* [Mobile Devices](/Mobile/index.md)
 
 ### Introduction
 When covering a computer on YouTube, I omit many things in order to keep my videos concise. Of course, this leaves many questions unanswered about specific details that I do not include in the video. This archive contains HD images of the computers that I cover on my YouTube in order to cover details not in the videos.
