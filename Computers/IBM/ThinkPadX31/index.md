@@ -3,34 +3,34 @@
 
 <table>
   <tr>
-    <td><img src='IMG_6681.jpg'/></td>
-    <td><img src='IMG_6682.jpg'/></td>
-    <td><img src='IMG_6684.jpg'/></td>
+    <td><img src='IMG_6681.JPG'/></td>
+    <td><img src='IMG_6682.JPG'/></td>
+    <td><img src='IMG_6684.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6685.jpg'/></td>
-    <td><img src='IMG_6686.jpg'/></td>
-    <td><img src='IMG_6687.jpg'/></td>
+    <td><img src='IMG_6685.JPG'/></td>
+    <td><img src='IMG_6686.JPG'/></td>
+    <td><img src='IMG_6687.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6688.jpg'/></td>
-    <td><img src='IMG_6689.jpg'/></td>
-    <td><img src='IMG_6690.jpg'/></td>
+    <td><img src='IMG_6688.JPG'/></td>
+    <td><img src='IMG_6689.JPG'/></td>
+    <td><img src='IMG_6690.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6691.jpg'/></td>
-    <td><img src='IMG_6692.jpg'/></td>
-    <td><img src='IMG_6693.jpg'/></td>
+    <td><img src='IMG_6691.JPG'/></td>
+    <td><img src='IMG_6692.JPG'/></td>
+    <td><img src='IMG_6693.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6694.jpg'/></td>
-    <td><img src='IMG_6695.jpg'/></td>
-    <td><img src='IMG_6697.jpg'/></td>
+    <td><img src='IMG_6694.JPG'/></td>
+    <td><img src='IMG_6695.JPG'/></td>
+    <td><img src='IMG_6697.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6698.jpg'/></td>
-    <td><img src='IMG_6699.jpg'/></td>
-    <td><img src='IMG_6700.jpg'/></td>
+    <td><img src='IMG_6698.JPG'/></td>
+    <td><img src='IMG_6699.JPG'/></td>
+    <td><img src='IMG_6700.JPG'/></td>
   </tr>
   
 </table>
