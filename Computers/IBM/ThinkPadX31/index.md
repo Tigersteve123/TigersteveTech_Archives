@@ -38,3 +38,6 @@
 ### [Specs](Specs.txt)
 
 <embed src='Specs.txt'>
+
+### Notes
+This was my dad's first laptop. It's older than I am and predates Lenovo's acquisition of the ThinkPad brand. I don't have too many memories of when it was my dad's primary laptop, but it has been with my family for a long time and has a special place in my heart :)
