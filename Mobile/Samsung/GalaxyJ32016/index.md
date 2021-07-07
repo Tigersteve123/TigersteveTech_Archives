@@ -23,4 +23,4 @@
 <embed src='Specs.txt'>
 
 ### Notes
-This was my first phone. I got it at the beginning of the summer of 2017. I started my channel with it and used it to record many segments such as the Boot Camp and Hackintoshing videos and the room tour and PS2 YPbPr cable video on my second channel.
+This was my first phone that I got in the beginning of the summer of 2017. I started my channel with it and used it to record many segments such as the Boot Camp and Hackintoshing videos and the room tour and PS2 YPbPr cable video on my second channel.
