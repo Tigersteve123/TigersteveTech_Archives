@@ -16,8 +16,7 @@
 * [Mobile Devices](/Mobile/index.md)
 
 ### Introduction
-When covering a computer on YouTube, I omit many things in order to keep my videos concise. Of course, this leaves many questions unanswered about specific details that I do not include in the video. This archive contains HD images of the computers that I cover on my YouTube in order to cover details not in the videos.
-In the future, this repository may be expanded to include files for other videos.
+When covering a computer on YouTube, I omit many things in order to keep my videos concise. Of course, this leaves many questions unanswered about specific details that I do not include in the video. This archive contains HD images of the devices that I cover on my YouTube in order to cover details not in the videos. In the future, this repository may be expanded to include files for other videos.
 
 ### Contributing
 Currently, I am using this to host files exclusively for my YouTube channel. However, feel free to fork the repository if you want to use it for your own projects. Please leave questions, comments, and concerns in the Issues tab and I will do my best to get back in a timely manner.
