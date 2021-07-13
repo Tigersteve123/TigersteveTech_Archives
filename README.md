@@ -5,12 +5,6 @@
 
 # Tigersteve Tech Archives
 
-## Table of contents
-1. Main Menu
-1. [Introduction](#introduction)
-3. [Contributing](#contributing)
-4. [License](#license)
-
 ### Main Menu
 * [Computers](/Computers/index.md)
 * [Mobile Devices](/Mobile/index.md)
