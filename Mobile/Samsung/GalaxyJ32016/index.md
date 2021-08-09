@@ -1,4 +1,4 @@
-# Lenovo Tab M8
+# Samsung Galaxy J3 (2016)
 [Parent directory](../index.md)
 
 <table>
