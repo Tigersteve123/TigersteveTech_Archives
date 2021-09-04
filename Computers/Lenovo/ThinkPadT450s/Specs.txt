@@ -1,5 +1,0 @@
-CPU: Intel Core i7 5600U 2.6 GHz
-RAM: 8GB DDR3-1600 (4GB soldered + 4GB upgradeable)
-Video: Intel HD Graphics 5500
-Storage: 500GB Samsung 860 EVO (Upgraded from 500GB WD Black 7200RPM)
-Screen: 1920x1080 14" IPS
