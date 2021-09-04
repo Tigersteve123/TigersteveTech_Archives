@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
 * CPU: Intel Xeon W3565 3.2GHz
 * RAM: 12GB DDR3-1333 ECC
