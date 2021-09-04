@@ -34,6 +34,9 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* CPU: AMD Athlon 5200 Dual-Core, 2.3 GHz
+* RAM: 4GB DDR2
+* Video: AMD integrated graphics
+* Storage: 80GB Western Digital Caviar SE 7200RPM (?)
