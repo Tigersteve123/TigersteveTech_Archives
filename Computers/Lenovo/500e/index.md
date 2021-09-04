@@ -24,6 +24,10 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* CPU: Intel Celeron N4120 1.1 GHz
+* RAM: 4GB LPDDR4-2400
+* Video: Intel UHD Graphics 600
+* Storage: 32GB eMMC Flash Storage
+* Screen: 1366x768 11" IPS Touch
