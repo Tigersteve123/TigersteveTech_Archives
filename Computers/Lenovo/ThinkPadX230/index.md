@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
 * CPU: Intel Core i5-3520M 2.9 GHz
 * RAM: 8GB DDR3-1333 (4GB 1600 + 4GB 1333)
