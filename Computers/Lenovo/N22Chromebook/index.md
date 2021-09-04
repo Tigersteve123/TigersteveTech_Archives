@@ -24,6 +24,10 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* CPU: Intel Celeron N3050 1.6 GHz
+* RAM: 2GB LPDDR3-1866
+* Video: Intel HD Graphics (Braswell)
+* Storage: 32GB eMMC Flash Storage
+* Screen: 1366x768 11" TN
