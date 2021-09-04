@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
 * CPU: Intel Core i7 5600U 2.6 GHz
 * RAM: 8GB DDR3-1600 (4GB soldered + 4GB upgradeable)
