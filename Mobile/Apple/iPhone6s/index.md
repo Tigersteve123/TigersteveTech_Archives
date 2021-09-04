@@ -23,6 +23,9 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* SoC: Apple A9
+* RAM: 2GB LPDDR4
+* Storage: 64GB NAND (NVMe)
+* Display: 1334x750 4.7" IPS
