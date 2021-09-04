@@ -1,4 +1,0 @@
-SoC: MediaTek Helio P22T Tab
-RAM: 3GB LPDDR3
-Storage: 32GB eMMC
-Display: 1920x1200 8" IPS
