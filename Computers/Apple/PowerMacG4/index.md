@@ -38,6 +38,9 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* CPU: PowerPC G4 ??? ???GHz
+* RAM: 384MB? SDRAM
+* Video: ATI Rage 128
+* Storage: 20GB WD Expert WD205BA 7200RPM
