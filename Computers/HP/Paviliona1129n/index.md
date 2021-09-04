@@ -33,7 +33,9 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
-
+* CPU: AMD Athlon 64 3400+ 2.2GHz
+* RAM: 1.5GB DDR-400
+* Video: Onboard ATI Radeon Xpress 200
+* Storage: 200GB Maxtor DiamondMax 10
