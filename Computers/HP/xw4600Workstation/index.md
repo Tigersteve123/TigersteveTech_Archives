@@ -34,6 +34,9 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
-<embed src='Specs.txt'>
+* CPU: Intel Core 2 Quad Q9450 2.66GHz
+* RAM: 6GB DDR2 (Stock 2GB DDR2+Upgraded 4GB DDR2)
+* Video: 2 x nVidia Quadro FX1700
+* Storage: 250GB Seagate 7200.10, 160GB Seagate 7200.10
