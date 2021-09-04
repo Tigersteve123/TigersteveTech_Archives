@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
 * SoC: Samsung Exynos 3475
 * RAM: 1.5GB LPDDR3
