@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-### [Specs](Specs.txt)
+### Specs
 
 * CPU: AMD Athlon X2 QL-62 2.0 GHz
 * RAM: 3GB DDR2-667
