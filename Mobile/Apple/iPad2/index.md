@@ -21,5 +21,5 @@
 
 * SoC: Apple A5 (45nm)
 * RAM: 512MB DDR2
-* Storage: 64GB NAND (NVMe)
+* Storage: 64GB NAND
 * Display: 1024x768 9.7" IPS
