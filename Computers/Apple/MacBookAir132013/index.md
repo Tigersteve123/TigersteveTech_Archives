@@ -29,7 +29,7 @@
 * RAM: 8GB DDR3-1600 (soldered)
 * Video: Intel HD Graphics 5000
 * Storage: 500GB Flash (PCIe-based)
-* Screen: 1440x900 14" TN
+* Screen: 1440x900 13" TN
 
 ### Notes
 This computer has seen a lot. One of the things it's been through is the beginning of my YouTube channel. Time flies!
