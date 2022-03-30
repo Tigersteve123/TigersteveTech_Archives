@@ -1,9 +1,4 @@
-<head>
-  <link rel="icon" type="image/x-icon" href="../favicon.ico">
-</head>
-
-
-# Tigersteve Tech Archives
+# Tigersteve Tech Archive
 
 ### Main Menu
 * [Computers](/Computers/index.md)
