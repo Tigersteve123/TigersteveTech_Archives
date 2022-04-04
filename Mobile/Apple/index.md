@@ -3,3 +3,4 @@
 
 * [iPhone 6s](./iPhone6s/index.md)
 * [iPad 2](./iPad2/index.md)
+* [iPhone SE (3rd Generation)](./iPhoneSE3/index.md)
