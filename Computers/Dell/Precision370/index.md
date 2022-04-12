@@ -45,6 +45,6 @@
 ### Specs
 
 * CPU: Intel Pentium 4 660 3.6GHz
-* RAM: 2GB DDR2-533 ECC
+* RAM: 3GB DDR2-533 ECC
 * Video: nVidia Quadro FX 1400
 * Storage: 160GB WD Caviar Blue 7200RPM
