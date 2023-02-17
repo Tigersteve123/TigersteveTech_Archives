@@ -24,6 +24,7 @@
   </tr>
   <tr>
     <td><img src='IMG_5715.JPG'/></td>
+	<td><img src='IMG_6928.JPG'/></td>
   </tr>
 </table>
 
