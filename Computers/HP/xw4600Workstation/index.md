@@ -41,6 +41,6 @@
 * Video: 2 x nVidia Quadro FX1700
 * Storage: 250GB Seagate 7200.10, 160GB Seagate 7200.10
 
-Notes
+### Notes
 
 The original owner of the machine told me that he had upgraded a lot of the components. The extra 4GB of memory, the second graphics card (which didn't support SLI or anything so it seems a bit pointless), the wireless card, and the second hard drive (which was originally just flopping around in the drive bay) were all aftermarket upgrades. This was on a YouTube comment on the original video but the comment got deleted when I transferred my channel to a "brand" channel.
