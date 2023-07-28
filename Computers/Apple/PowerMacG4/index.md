@@ -40,7 +40,7 @@
 
 ### Specs
 
-* CPU: PowerPC G4 ??? ???GHz
+* CPU: PowerPC G4 ??? 450 MHz
 * RAM: 384MB? SDRAM
 * Video: ATI Rage 128
 * Storage: 20GB WD Expert WD205BA 7200RPM
