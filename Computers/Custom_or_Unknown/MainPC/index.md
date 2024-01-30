@@ -33,7 +33,7 @@
 * CPU: Intel Pentium G4600 3.6GHz
 * RAM: 24GB DDR4 (8GB 2133 + 16GB 2400)
 * Video: nVidia GeForce GTX 1050
-* Storage: 500GB Samsung 860 EVO, 250GB WD Blue SATA M.2, 1TB WD Blue 7200RPM
+* Storage: 500GB Samsung 860 EVO, 250GB WD Blue SATA M.2, 1TB WD Blue 7200RPM, 500GB Toshiba Apple 5400RPM
 
 ### Notes
 This was the first (and only as of 2021) PC that I built myself. I built it in late 2017 on a 300-dollar budget. This happened to be when manufacturers were fixing memory prices, so I could only afford 8GB of second-hand RAM. Despite this, I was able to get some good deals, such as a new GTX 1050 from Amazon for under $90. I have since upgraded it by adding SSDs, a spare laptop hard drive, and more RAM (thanks Allen!). Although it has minor issues (such as the second-hand 2008-era optical drive breaking) this system has served me well for a few years.
