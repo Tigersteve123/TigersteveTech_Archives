@@ -33,4 +33,4 @@
 * RAM: 32GB DDR5-5200 soldered
 * Video: Intel Iris Xe Graphics
 * Storage: 512GB SK Hynix M.2 NVMe SSD
-* Screen: 1920x1200 14" IPS
+* Screen: 1920x1200 14" IPS, Touch
