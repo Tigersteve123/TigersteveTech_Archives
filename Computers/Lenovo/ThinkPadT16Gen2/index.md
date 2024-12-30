@@ -17,14 +17,6 @@
     <td><img src='IMG_7219.JPG'/></td>
     <td><img src='IMG_7220.JPG'/></td>
   </tr>
-  <tr>
-    <td><img src='IMG_6957.JPG'/></td>
-    <td><img src='IMG_6951.JPG'/></td>
-	<td><img src='IMG_6952.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6953.JPG'/></td>
-  </tr>
 </table>
 
 ### Specs
