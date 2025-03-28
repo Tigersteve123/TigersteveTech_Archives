@@ -1,46 +1,15 @@
 # Dell OptiPlex GX260
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_5463.JPG'/></td>
-    <td><img src='IMG_5464.JPG'/></td>
-    <td><img src='IMG_5465.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5466.JPG'/></td>
-    <td><img src='IMG_5467.JPG'/></td>
-    <td><img src='IMG_5468.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5469.JPG'/></td>
-    <td><img src='IMG_5470.JPG'/></td>
-    <td><img src='IMG_5471.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5472.JPG'/></td>
-    <td><img src='IMG_5473.JPG'/></td>
-    <td><img src='IMG_5474.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5475.JPG'/></td>
-    <td><img src='IMG_5477.JPG'/></td>
-    <td><img src='IMG_5478.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5480.JPG'/></td>
-    <td><img src='IMG_5481.JPG'/></td>
-    <td><img src='IMG_5482.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5483.JPG'/></td>
-    <td><img src='IMG_5484.JPG'/></td>
-    <td><img src='IMG_5485.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5486.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_5463.JPG) | ![](IMG_5464.JPG) | ![](IMG_5465.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_5466.JPG) | ![](IMG_5467.JPG) | ![](IMG_5468.JPG)
+| ![](IMG_5469.JPG) | ![](IMG_5470.JPG) | ![](IMG_5471.JPG)
+| ![](IMG_5472.JPG) | ![](IMG_5473.JPG) | ![](IMG_5474.JPG)
+| ![](IMG_5475.JPG) | ![](IMG_5477.JPG) | ![](IMG_5478.JPG)
+| ![](IMG_5480.JPG) | ![](IMG_5481.JPG) | ![](IMG_5482.JPG)
+| ![](IMG_5483.JPG) | ![](IMG_5484.JPG) | ![](IMG_5485.JPG)
+| ![](IMG_5486.JPG)
 
 ### Specs
 

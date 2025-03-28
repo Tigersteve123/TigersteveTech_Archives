@@ -1,27 +1,11 @@
 # Apple MacBook Air 13" (Mid 2013)
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6770.JPG'/></td>
-    <td><img src='IMG_6772.JPG'/></td>
-    <td><img src='IMG_6773.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6774.JPG'/></td>
-    <td><img src='IMG_6775.JPG'/></td>
-    <td><img src='IMG_6776.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6777.JPG'/></td>
-    <td><img src='IMG_6778.JPG'/></td>
-    <td><img src='IMG_6779.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6780.JPG'/></td>
-    <td><img src='IMG_6782.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_6770.JPG) | ![](IMG_6772.JPG) | ![](IMG_6773.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_6774.JPG) | ![](IMG_6775.JPG) | ![](IMG_6776.JPG)
+| ![](IMG_6777.JPG) | ![](IMG_6778.JPG) | ![](IMG_6779.JPG)
+| ![](IMG_6780.JPG) | ![](IMG_6782.JPG)
 
 ### Specs
 

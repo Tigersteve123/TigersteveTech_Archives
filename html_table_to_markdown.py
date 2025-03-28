@@ -27,7 +27,7 @@ def convert_html_to_markdown(html):
                 if img_tag:
                     img_src = img_tag.get('src')
                     # Create the markdown image syntax
-                    markdown_row += f"![image]({img_src}) | "
+                    markdown_row += f"![]({img_src}) | "
             
             # Remove the trailing pipe and add a newline after each row
             markdown_output += markdown_row.rstrip('| ') + '\n'
@@ -46,19 +46,36 @@ def convert_html_to_markdown(html):
 html_content = """
 <table>
   <tr>
-    <td><img src='IMG_6654.JPG'/></td>
-    <td><img src='IMG_6655.JPG'/></td>
-    <td><img src='IMG_6656.JPG'/></td>
+    <td><img src='IMG_6681.JPG'/></td>
+    <td><img src='IMG_6682.JPG'/></td>
+    <td><img src='IMG_6684.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6657.JPG'/></td>
-    <td><img src='IMG_6660.JPG'/></td>
-    <td><img src='IMG_6661.JPG'/></td>
+    <td><img src='IMG_6685.JPG'/></td>
+    <td><img src='IMG_6686.JPG'/></td>
+    <td><img src='IMG_6687.JPG'/></td>
   </tr>
   <tr>
-    <td><img src='IMG_6662.JPG'/></td>
-	<td><img src='IMG_6663.JPG'/></td>
+    <td><img src='IMG_6688.JPG'/></td>
+    <td><img src='IMG_6689.JPG'/></td>
+    <td><img src='IMG_6690.JPG'/></td>
   </tr>
+  <tr>
+    <td><img src='IMG_6691.JPG'/></td>
+    <td><img src='IMG_6692.JPG'/></td>
+    <td><img src='IMG_6693.JPG'/></td>
+  </tr>
+  <tr>
+    <td><img src='IMG_6694.JPG'/></td>
+    <td><img src='IMG_6695.JPG'/></td>
+    <td><img src='IMG_6697.JPG'/></td>
+  </tr>
+  <tr>
+    <td><img src='IMG_6698.JPG'/></td>
+    <td><img src='IMG_6699.JPG'/></td>
+    <td><img src='IMG_6700.JPG'/></td>
+  </tr>
+  
 </table>
 """
 

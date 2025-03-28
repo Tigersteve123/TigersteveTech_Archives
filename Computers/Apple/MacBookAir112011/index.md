@@ -1,27 +1,11 @@
 # Apple MacBook Air 11" (Mid 2011)
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6784.JPG'/></td>
-    <td><img src='IMG_6785.JPG'/></td>
-    <td><img src='IMG_6786.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6788.JPG'/></td>
-    <td><img src='IMG_6789.JPG'/></td>
-    <td><img src='IMG_6790.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6791.JPG'/></td>
-    <td><img src='IMG_6793.JPG'/></td>
-    <td><img src='IMG_6794.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6795.JPG'/></td>
-    <td><img src='IMG_6799.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_6784.JPG) | ![](IMG_6785.JPG) | ![](IMG_6786.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_6788.JPG) | ![](IMG_6789.JPG) | ![](IMG_6790.JPG)
+| ![](IMG_6791.JPG) | ![](IMG_6793.JPG) | ![](IMG_6794.JPG)
+| ![](IMG_6795.JPG) | ![](IMG_6799.JPG)
 
 ### Specs
 

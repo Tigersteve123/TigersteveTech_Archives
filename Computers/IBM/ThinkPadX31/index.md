@@ -1,39 +1,13 @@
 # IBM ThinkPad X31
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6681.JPG'/></td>
-    <td><img src='IMG_6682.JPG'/></td>
-    <td><img src='IMG_6684.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6685.JPG'/></td>
-    <td><img src='IMG_6686.JPG'/></td>
-    <td><img src='IMG_6687.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6688.JPG'/></td>
-    <td><img src='IMG_6689.JPG'/></td>
-    <td><img src='IMG_6690.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6691.JPG'/></td>
-    <td><img src='IMG_6692.JPG'/></td>
-    <td><img src='IMG_6693.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6694.JPG'/></td>
-    <td><img src='IMG_6695.JPG'/></td>
-    <td><img src='IMG_6697.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6698.JPG'/></td>
-    <td><img src='IMG_6699.JPG'/></td>
-    <td><img src='IMG_6700.JPG'/></td>
-  </tr>
-  
-</table>
+| ![](IMG_6681.JPG) | ![](IMG_6682.JPG) | ![](IMG_6684.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_6685.JPG) | ![](IMG_6686.JPG) | ![](IMG_6687.JPG)
+| ![](IMG_6688.JPG) | ![](IMG_6689.JPG) | ![](IMG_6690.JPG)
+| ![](IMG_6691.JPG) | ![](IMG_6692.JPG) | ![](IMG_6693.JPG)
+| ![](IMG_6694.JPG) | ![](IMG_6695.JPG) | ![](IMG_6697.JPG)
+| ![](IMG_6698.JPG) | ![](IMG_6699.JPG) | ![](IMG_6700.JPG)
 
 ### Specs
 

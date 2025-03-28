@@ -1,21 +1,10 @@
 # Apple iMac 27" (Mid 2017)
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6932.JPG'/></td>
-    <td><img src='IMG_6934.JPG'/></td>
-    <td><img src='IMG_6935.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6936.JPG'/></td>
-    <td><img src='IMG_6937.JPG'/></td>
-    <td><img src='IMG_6938.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6939.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_6932.JPG) | ![](IMG_6934.JPG) | ![](IMG_6935.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_6936.JPG) | ![](IMG_6937.JPG) | ![](IMG_6938.JPG)
+| ![](IMG_6939.JPG)
 
 ### Specs
 

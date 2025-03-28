@@ -1,38 +1,13 @@
 # Main PC
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_5692.JPG'/></td>
-    <td><img src='IMG_5694.JPG'/></td>
-    <td><img src='IMG_5695.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5696.JPG'/></td>
-    <td><img src='IMG_5697.JPG'/></td>
-    <td><img src='IMG_5702.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5704.JPG'/></td>
-    <td><img src='IMG_5706.JPG'/></td>
-    <td><img src='IMG_5708.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5711.JPG'/></td>
-    <td><img src='IMG_5713.JPG'/></td>
-    <td><img src='IMG_5714.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5715.JPG'/></td>
-	<td><img src='IMG_6928.JPG'/></td>
-	<td><img src='IMG_7341.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7342.JPG'/></td>
-	<td><img src='IMG_7348.JPG'/></td>
-	<td><img src='IMG_7349.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_5692.JPG) | ![](IMG_5694.JPG) | ![](IMG_5695.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_5696.JPG) | ![](IMG_5697.JPG) | ![](IMG_5702.JPG)
+| ![](IMG_5704.JPG) | ![](IMG_5706.JPG) | ![](IMG_5708.JPG)
+| ![](IMG_5711.JPG) | ![](IMG_5713.JPG) | ![](IMG_5714.JPG)
+| ![](IMG_5715.JPG) | ![](IMG_6928.JPG) | ![](IMG_7341.JPG)
+| ![](IMG_7342.JPG) | ![](IMG_7348.JPG) | ![](IMG_7349.JPG)
 
 ### Specs
 

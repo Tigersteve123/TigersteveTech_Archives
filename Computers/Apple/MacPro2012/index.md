@@ -1,36 +1,13 @@
 # Apple Mac Pro (Mid 2012)
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_7015.JPG'/></td>
-    <td><img src='IMG_7016.JPG'/></td>
-    <td><img src='IMG_7017.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7018.JPG'/></td>
-    <td><img src='IMG_7019.JPG'/></td>
-    <td><img src='IMG_7020.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7021.JPG'/></td>
-    <td><img src='IMG_7022.JPG'/></td>
-    <td><img src='IMG_7023.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7024.JPG'/></td>
-    <td><img src='IMG_7025.JPG'/></td>
-    <td><img src='IMG_7027.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7028.JPG'/></td>
-    <td><img src='IMG_7029.JPG'/></td>
-    <td><img src='IMG_7030.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7032.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_7015.JPG) | ![](IMG_7016.JPG) | ![](IMG_7017.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_7018.JPG) | ![](IMG_7019.JPG) | ![](IMG_7020.JPG)
+| ![](IMG_7021.JPG) | ![](IMG_7022.JPG) | ![](IMG_7023.JPG)
+| ![](IMG_7024.JPG) | ![](IMG_7025.JPG) | ![](IMG_7027.JPG)
+| ![](IMG_7028.JPG) | ![](IMG_7029.JPG) | ![](IMG_7030.JPG)
+| ![](IMG_7032.JPG)
 
 ### Specs
 
