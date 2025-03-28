@@ -1,28 +1,11 @@
 # Lenovo ThinkPad X1 Yoga 5th Generation
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6755.JPG'/></td>
-	<td><img src='IMG_6757.JPG'/></td>
-	<td><img src='IMG_6758.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6760.JPG'/></td>
-	<td><img src='IMG_6761.JPG'/></td>
-	<td><img src='IMG_6762.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6763.JPG'/></td>
-	<td><img src='IMG_6764.JPG'/></td>
-	<td><img src='IMG_6765.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6767.JPG'/></td>
-	<td><img src='IMG_6768.JPG'/></td>
-	<td><img src='IMG_6769.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_6755.JPG) | ![](IMG_6757.JPG) | ![](IMG_6758.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_6760.JPG) | ![](IMG_6761.JPG) | ![](IMG_6762.JPG)
+| ![](IMG_6763.JPG) | ![](IMG_6764.JPG) | ![](IMG_6765.JPG)
+| ![](IMG_6767.JPG) | ![](IMG_6768.JPG) | ![](IMG_6769.JPG)
 
 ### Specs
 

@@ -1,23 +1,10 @@
 # Lenovo ThinkPad T16 Gen 2
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_7211.JPG'/></td>
-    <td><img src='IMG_7212.JPG'/></td>
-    <td><img src='IMG_7213.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7215.JPG'/></td>
-    <td><img src='IMG_7216.JPG'/></td>
-    <td><img src='IMG_7217.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7218.JPG'/></td>
-    <td><img src='IMG_7219.JPG'/></td>
-    <td><img src='IMG_7220.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_7211.JPG) | ![](IMG_7212.JPG) | ![](IMG_7213.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_7215.JPG) | ![](IMG_7216.JPG) | ![](IMG_7217.JPG)
+| ![](IMG_7218.JPG) | ![](IMG_7219.JPG) | ![](IMG_7220.JPG)
 
 ### Specs
 

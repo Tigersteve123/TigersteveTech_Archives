@@ -1,31 +1,12 @@
 # Lenovo ThinkPad X200 Tablet
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_7326.JPG'/></td>
-    <td><img src='IMG_7327.JPG'/></td>
-    <td><img src='IMG_7328.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7329.JPG'/></td>
-    <td><img src='IMG_7330.JPG'/></td>
-    <td><img src='IMG_7331.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7332.JPG'/></td>
-    <td><img src='IMG_7333.JPG'/></td>
-    <td><img src='IMG_7334.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7335.JPG'/></td>
-    <td><img src='IMG_7336.JPG'/></td>
-    <td><img src='IMG_7337.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_7338.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_7326.JPG) | ![](IMG_7327.JPG) | ![](IMG_7328.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_7329.JPG) | ![](IMG_7330.JPG) | ![](IMG_7331.JPG)
+| ![](IMG_7332.JPG) | ![](IMG_7333.JPG) | ![](IMG_7334.JPG)
+| ![](IMG_7335.JPG) | ![](IMG_7336.JPG) | ![](IMG_7337.JPG)
+| ![](IMG_7338.JPG)
 
 ### Specs
 

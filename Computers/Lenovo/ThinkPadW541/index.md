@@ -1,33 +1,12 @@
 # Lenovo ThinkPad W541
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_5995.JPG'/></td>
-    <td><img src='IMG_5996.JPG'/></td>
-    <td><img src='IMG_5997.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_5999.JPG'/></td>
-    <td><img src='IMG_6000.JPG'/></td>
-    <td><img src='IMG_6001.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6002.JPG'/></td>
-    <td><img src='IMG_6003.JPG'/></td>
-    <td><img src='IMG_6004.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6005.JPG'/></td>
-    <td><img src='IMG_6007.JPG'/></td>
-    <td><img src='IMG_6008.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6009.JPG'/></td>
-    <td><img src='IMG_6010.JPG'/></td>
-	<td><img src='IMG_6011.JPG'/></td>
-  </tr>
-</table>
+| ![](IMG_5995.JPG) | ![](IMG_5996.JPG) | ![](IMG_5997.JPG)
+|:---:|:---:|:---:|
+| ![](IMG_5999.JPG) | ![](IMG_6000.JPG) | ![](IMG_6001.JPG)
+| ![](IMG_6002.JPG) | ![](IMG_6003.JPG) | ![](IMG_6004.JPG)
+| ![](IMG_6005.JPG) | ![](IMG_6007.JPG) | ![](IMG_6008.JPG)
+| ![](IMG_6009.JPG) | ![](IMG_6010.JPG) | ![](IMG_6011.JPG)
 
 ### Specs
 
