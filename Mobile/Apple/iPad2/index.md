@@ -1,21 +1,10 @@
 # Apple iPad 2
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6746.JPG'/></td>
-    <td><img src='IMG_6748.JPG'/></td>
-    <td><img src='IMG_6747.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6741.JPG'/></td>
-    <td><img src='IMG_6742.JPG'/></td>
-    <td><img src='IMG_6743.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6744.JPG'/></td>
-  </tr>
-</table>
+| ![image](IMG_6746.JPG) | ![image](IMG_6748.JPG) | ![image](IMG_6747.JPG)
+|:---:|:---:|:---:|
+| ![image](IMG_6741.JPG) | ![image](IMG_6742.JPG) | ![image](IMG_6743.JPG)
+| ![image](IMG_6744.JPG)
 
 ### Specs
 

@@ -1,21 +1,10 @@
 # Lenovo Tab M8
 [Parent directory](../index.md)
 
-<table>
-  <tr>
-    <td><img src='IMG_6643.JPG'/></td>
-    <td><img src='IMG_6645.JPG'/></td>
-    <td><img src='IMG_6646.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6649.JPG'/></td>
-    <td><img src='IMG_6650.JPG'/></td>
-    <td><img src='IMG_6651.JPG'/></td>
-  </tr>
-  <tr>
-    <td><img src='IMG_6652.JPG'/></td>
-  </tr>
-</table>
+| ![image](IMG_6643.JPG) | ![image](IMG_6645.JPG) | ![image](IMG_6646.JPG)
+|:---:|:---:|:---:|
+| ![image](IMG_6649.JPG) | ![image](IMG_6650.JPG) | ![image](IMG_6651.JPG)
+| ![image](IMG_6652.JPG)
 
 ### Specs
 
