@@ -13,7 +13,7 @@
 
 * CPU: Intel Core i7-6700 3.4GHz
 * RAM: 28GB DDR4 (12GB 2133 + 16GB 2400)
-* Video: nVidia GeForce GTX 1050
+* Video: Nvidia GeForce GTX 1050
 * Storage:  256GB Samsung PM981a, 250GB WD Blue SATA M.2, 500GB Samsung 860 EVO, 1TB WD Blue 7200RPM, 500GB Toshiba Apple 5400RPM
 
 ### Notes
