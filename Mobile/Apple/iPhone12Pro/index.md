@@ -1,4 +1,4 @@
-# Apple iPhone 6s
+# Apple iPhone 12 Pro
 [Parent directory](../index.md)
 
 | ![image](IMG_7377.JPG) | ![image](IMG_7378.JPG) | ![image](IMG_7387.JPG) |
