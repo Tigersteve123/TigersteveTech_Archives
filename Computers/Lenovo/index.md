@@ -10,3 +10,6 @@
 * [ThinkPad X1 Carbon 4th Generation](./ThinkPadX1Carbon4/index.md)
 * [ThinkPad X1 Yoga 5th Generation](./ThinkPadX1Yoga5/index.md)
 * [ThinkPad X1 Carbon Gen 10](./ThinkPadX1Carbon10/index.md)
+* [ThinkPad T16 Gen 2](./ThinkPadT16Gen2/index.md)
+* [ThinkPad X200 Tablet](./ThinkPadX200Tablet/index.md)
+* [ThinkPad X1 Yoga 4th Generation](./ThinkPadX1Yoga4/index.md)
