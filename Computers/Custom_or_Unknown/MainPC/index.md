@@ -8,10 +8,12 @@
 | ![](IMG_5711.JPG) | ![](IMG_5713.JPG) | ![](IMG_5714.JPG)
 | ![](IMG_5715.JPG) | ![](IMG_6928.JPG) | ![](IMG_7341.JPG)
 | ![](IMG_7342.JPG) | ![](IMG_7348.JPG) | ![](IMG_7349.JPG)
+| ![](IMG_7461.JPG) | ![](IMG_7466.JPG) | ![](IMG_7467.JPG)
+| ![](IMG_7469.JPG) |
 
 ### Specs
 
-* CPU: Intel Core i7-6700 3.4GHz
+* CPU: Intel Core i7-7700 3.6GHz
 * RAM: 28GB DDR4 (12GB 2133 + 16GB 2400)
 * Video: Nvidia GeForce GTX 1050
 * Storage:  256GB Samsung PM981a, 250GB WD Blue SATA M.2, 500GB Samsung 860 EVO, 1TB WD Blue 7200RPM, 500GB Toshiba Apple 5400RPM
